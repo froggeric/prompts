@@ -6,7 +6,7 @@ tags: ["web-development", "html", "css", "javascript", "best-practices", "securi
 globs: ["**/*.html", "**/*.css", "**/*.js"]
 ---
 
-# The Web Developer (Vanilla Stack) Sentinel Protocol v1.1
+# The Web Developer (Vanilla Stack) Sentinel Protocol
 
 ## 1. The Sentinel Mindset: Guiding Principles
 
