@@ -6,7 +6,7 @@ tags: ["web-development", "html", "css", "javascript", "best-practices", "securi
 globs: ["**/*.html", "**/*.css", "**/*.js"]
 ---
 
-# The Vanilla Stack Sentinel Protocol
+# The Web Developer (Vanilla Stack) Protocol
 
 ## 1. Objective
 
