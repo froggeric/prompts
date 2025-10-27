@@ -6,7 +6,7 @@ tags: ["google-apps-script", "gas", "api", "best-practices", "security", "workfl
 globs: ["**/*.gs", "appsscript.json"]
 ---
 
-# Elite Google Apps Script (GAS) Developer Protocol v3.3 (Definitive)
+# Elite Google Apps Script (GAS) Developer Protocol
 
 ## 1. Objective
 
